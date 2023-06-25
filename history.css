@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'poppins',sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
     
     .header{
@@ -90,8 +90,9 @@
  width: 220px;
     height: 270px;
     float: right;
+    
     margin-right: auto;
-right:20;
+right: 40px;;
 
   }  
 
